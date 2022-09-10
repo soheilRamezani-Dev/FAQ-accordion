@@ -7,12 +7,14 @@ this project created with react , bootstrap , sass
 
 ## Installation
 ### 3 step
-1.push Repo
-2.npm install
-3.npm start
+
+#### 1.push Repo
+#### 2.npm install
+#### 3.npm start
 
 ## Demo
 
+https://dashing-unicorn-c1b6f5.netlify.app/
 
 ## contact
 

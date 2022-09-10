@@ -14,7 +14,7 @@ this project created with react , bootstrap , sass
 
 ## Demo
 
-![accordion demo picture](https://pasteboard.co/4NhnN6mBTyfN.jpg)
+![accordion demo picture](https://gcdnb.pbrd.co/images/4NhnN6mBTyfN.jpg?o=1)
 
 
 https://dashing-unicorn-c1b6f5.netlify.app/

@@ -10766,7 +10766,7 @@ textarea.form-control-lg {
   }
 }
 .main-content {
-  margin-top: 200px;
+  margin-top: 100px;
 }
 .main-content .faq {
   background-color: white;
@@ -10783,7 +10783,7 @@ textarea.form-control-lg {
   padding: 0 10px;
 }
 .main-content .faq .not-active .answer {
-  height: 0;
+  max-height: 0;
   overflow: hidden;
   padding: 0 20px;
 }
@@ -10792,8 +10792,9 @@ textarea.form-control-lg {
   color: gray;
 }
 .main-content .faq .active .answer {
-  height: auto;
+  max-height: 500px;
   overflow: hidden;
+  transition: max-height 0.6s linear;
 }
 
 /*# sourceMappingURL=faq.css.map */

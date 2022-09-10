@@ -1,0 +1,39 @@
+@import './../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.main-content{
+    margin-top: 200px;
+
+    .faq{
+        background-color: white;
+        width: 40%;
+        border-radius: 20px;
+        border: 1px solid lightgray;
+        padding: 20px;
+
+        .h3{
+            margin: 10px 0 20px 0;
+        }
+        .answer{
+            background: white;
+            padding: 0 10px;
+        }
+
+
+        .not-active{
+
+            .answer{
+                height: 0;
+                overflow: hidden;
+                padding: 0 20px;
+            }
+        }
+        .active{
+            background-color: transparent;
+            color: gray;
+            .answer{
+                height: auto;
+                overflow: hidden;
+            }
+        }
+    }
+}
